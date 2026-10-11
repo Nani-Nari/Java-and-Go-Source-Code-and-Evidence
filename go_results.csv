@@ -1,0 +1,13 @@
+task_id,square,worker
+1,1,Worker-4
+2,4,Worker-2
+3,9,Worker-3
+4,16,Worker-1
+5,25,Worker-1
+6,36,Worker-4
+7,49,Worker-3
+8,64,Worker-2
+9,81,Worker-2
+10,100,Worker-3
+11,121,Worker-4
+12,144,Worker-1

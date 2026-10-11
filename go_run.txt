@@ -1,0 +1,22 @@
+2026/10/11 16:16:06 Worker-4 started
+2026/10/11 16:16:06 Worker-2 started
+2026/10/11 16:16:06 Worker-3 started
+2026/10/11 16:16:06 Worker-1 started
+2026/10/11 16:16:06 Worker-1 processed task 4
+2026/10/11 16:16:06 Worker-4 processed task 1
+2026/10/11 16:16:06 Worker-3 processed task 3
+2026/10/11 16:16:06 Worker-2 processed task 2
+2026/10/11 16:16:06 Worker-2 processed task 8
+2026/10/11 16:16:06 Worker-3 processed task 7
+2026/10/11 16:16:06 Worker-4 processed task 6
+2026/10/11 16:16:06 Worker-1 processed task 5
+2026/10/11 16:16:06 Worker-1 processed task 12
+2026/10/11 16:16:06 Worker-1 completed
+2026/10/11 16:16:06 Worker-4 processed task 11
+2026/10/11 16:16:06 Worker-4 completed
+2026/10/11 16:16:06 Worker-2 processed task 9
+2026/10/11 16:16:06 Worker-2 completed
+2026/10/11 16:16:06 Worker-3 processed task 10
+2026/10/11 16:16:06 Worker-3 completed
+GO SUCCESS: 12 unique tasks processed; saved go_results.csv
+Task 1 -> 1; Task 12 -> 144

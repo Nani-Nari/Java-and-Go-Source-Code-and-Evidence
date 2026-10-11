@@ -1,0 +1,42 @@
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-2 started
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-4 started
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-1 started
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-3 started
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-2 processed task 1
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-4 processed task 2
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-1 processed task 3
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-3 processed task 4
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-2 processed task 5
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-4 processed task 6
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-1 processed task 7
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-3 processed task 8
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-2 processed task 9
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-2 completed
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-4 processed task 10
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-4 completed
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-1 processed task 11
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-1 completed
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-3 processed task 12
+Oct 11, 2026 4:16:01 PM DataProcessingSystem lambda$main$0
+INFO: Worker-3 completed
+JAVA SUCCESS: 12 unique tasks processed; saved java_results.csv
+Task 1 -> 1; Task 12 -> 144
